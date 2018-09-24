@@ -13,3 +13,6 @@ Machine learning to predict elective surgery time: modeling and validation
 
 * Supervised machine learning: surgery time is the main outcome;
 * Need to choose ML algorithm;
+* Development of multivariable model;
+* Validation of multivariable model with new data;
+* Code program to receive data, update model and predict surgery times.
