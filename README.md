@@ -16,3 +16,7 @@ Machine learning to predict elective surgery time: modeling and validation
 * Development of multivariable model;
 * Validation of multivariable model with new data;
 * Code program to receive data, update model and predict surgery times.
+
+## Writing guide
+
+* TRIPOD
