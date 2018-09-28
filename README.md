@@ -20,3 +20,6 @@ Machine learning to predict elective surgery time: modeling and validation
 ## Writing guide
 
 * TRIPOD
+* DMPTool (dmptool.org) to help writing the data management plan
+* SAP: 
+** https://www.phusewiki.org/wiki/index.php?title=Review_of_Statistical_Analysis_Plans , https://jamanetwork.com/journals/jama/fullarticle/2666509 , https://www.fda.gov/downloads/drugs/guidancecomplianceregulatoryinformation/guidances/ucm073137.pdf , http://www.encepp.eu/standards_and_guidances/methodologicalGuide5.shtml
